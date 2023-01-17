@@ -26,8 +26,8 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 
 | Action              | Shortcut |
 |---------------------|:--------:|
-| Move Statement Down | `⇧ ⌘ ↓`  |
 | Move Statement Up   | `⇧ ⌘ ↑`  |
+| Move Statement Down | `⇧ ⌘ ↓`  |
 
 ### [Navigation](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#context_navigation)
 
@@ -35,9 +35,9 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 |-------------------|:--------:|
 | Go to Line/Column |  `⌘ L`   |
 
-### Refactoring
+### [Refactoring](https://www.jetbrains.com/help/idea/refactoring-source-code.html#popular-refactorings)
 
-| Action                                                                        | Shortcut |
-|-------------------------------------------------------------------------------|:--------:|
-| [Extract Constant](https://www.jetbrains.com/help/idea/extract-constant.html) | `⌥ ⌘ C`  |
-| [Extract Variable](https://www.jetbrains.com/help/idea/extract-variable.html) | `⌥ ⌘ V`  |
+| Action           | Shortcut |
+|------------------|:--------:|
+| Extract Constant | `⌥ ⌘ C`  |
+| Extract Variable | `⌥ ⌘ V`  |
