@@ -6,6 +6,8 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 
 Action | Shortcut
 --- | :---:
+[Cut](https://www.jetbrains.com/help/idea/extract-constant.html) | `⌘ X`
+[Delete Line](https://www.jetbrains.com/help/idea/extract-constant.html) | `⌘ ⌫`
 [Extract Constant](https://www.jetbrains.com/help/idea/extract-constant.html) | `⌥ ⌘ C`
 [Extract Variable](https://www.jetbrains.com/help/idea/extract-variable.html) | `⌥ ⌘ V`
 [Go to Line/Column](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#context_navigation) | `⌘ L`
