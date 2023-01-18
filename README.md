@@ -29,3 +29,4 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | [**Refactoring**](https://www.jetbrains.com/help/idea/refactoring-source-code.html#popular-refactorings)   |          |
 | Extract Constant                                                                                           | `⌥ ⌘ C`  |
 | Extract Variable                                                                                           | `⌥ ⌘ V`  |
+| Rename                                                                                                     |  `⇧ F6`  |
