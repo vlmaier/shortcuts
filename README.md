@@ -2,7 +2,7 @@
 
 Overview of useful shortcuts I use (want to memorize and use) every day to optimize repetitive tasks.
 
-## Intellij IDEA
+## IntelliJ IDEA
 
 | Action                                                                                                     | Shortcut |
 |------------------------------------------------------------------------------------------------------------|:--------:|
