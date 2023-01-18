@@ -17,6 +17,7 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Delete Line                                                                                                |  `⌘ ⌫`   |
 | Duplicate Line or Selection                                                                                |  `⌘ D`   |
 | [**Coding**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#coding_assistance)      |          |
+| Reformat Code                                                                                              | `⌥ ⌘ L`  |
 | Generate...                                                                                                |  `⌘ N`   |
 | Move Statement Up                                                                                          | `⇧ ⌘ ↑`  |
 | Move Statement Down                                                                                        | `⇧ ⌘ ↓`  |
