@@ -4,43 +4,43 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 
 ## IntelliJ IDEA
 
-| Action                                                                                                     | Shortcut |
-|------------------------------------------------------------------------------------------------------------|:--------:|
-| [**Selection**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#select_text)         |          |
-| Select All                                                                                                 |  `⌘ A`   |
-| Extend Selection                                                                                           |  `⌥ ↑`   |
-| Shrink Selection                                                                                           |  `⌥ ↓`   |
-| [**Editing**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#basic_editing)         |          |
-| Copy                                                                                                       |  `⌘ C`   |
-| Paste                                                                                                      |  `⌘ V`   |
-| Cut                                                                                                        |  `⌘ X`   |
-| Delete Line                                                                                                |  `⌘ ⌫`   |
-| Duplicate Line or Selection                                                                                |  `⌘ D`   |
-| [**Coding**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#coding_assistance)      |          |
-| Reformat Code                                                                                              | `⌥ ⌘ L`  |
-| Generate...                                                                                                |  `⌘ N`   |
-| Move Statement Up                                                                                          | `⇧ ⌘ ↑`  |
-| Move Statement Down                                                                                        | `⇧ ⌘ ↓`  |
-| [**Navigation**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#context_navigation) |          |
-| Collapse                                                                                                   |  `⌘ +`   |
-| Collapse All                                                                                               | `⌥ ⌘ +`  |
-| Expand                                                                                                     |  `⌘ -`   |
-| Expand All                                                                                                 | `⌥ ⌘ -`  |
-| Go to Line:Column                                                                                          |  `⌘ L`   |
-| Go to Super Method                                                                                         |  `⌘ U`   |
-| Go to Declaration or Usages                                                                                |  `⌘ B`   |
-| Go to Implementation(s)                                                                                    | `⌥ ⌘ B`  |
-| Open Settings                                                                                              |  `⌘ ,`   |
-| Switch Tabs (w/ Switcher)                                                                                  |  `⌃ ⇥`   |
-| [**Refactoring**](https://www.jetbrains.com/help/idea/refactoring-source-code.html#popular-refactorings)   |          |
-| Extract Constant                                                                                           | `⌥ ⌘ C`  |
-| Extract Variable                                                                                           | `⌥ ⌘ V`  |
-| Rename                                                                                                     |  `⇧ F6`  |
+| Action                                                                                                     | Shortcut | Confidence Level                                                                             |
+|------------------------------------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------------------|
+| [**Selection**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#select_text)         |          |                                                                                              |
+| Select All                                                                                                 |  `⌘ A`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
+| Extend Selection                                                                                           |  `⌥ ↑`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Shrink Selection                                                                                           |  `⌥ ↓`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| [**Editing**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#basic_editing)         |          |                                                                                              |
+| Copy                                                                                                       |  `⌘ C`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
+| Paste                                                                                                      |  `⌘ V`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
+| Cut                                                                                                        |  `⌘ X`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
+| Delete Line                                                                                                |  `⌘ ⌫`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Duplicate Line or Selection                                                                                |  `⌘ D`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
+| [**Coding**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#coding_assistance)      |          |                                                                                              |
+| Reformat Code                                                                                              | `⌥ ⌘ L`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Generate...                                                                                                |  `⌘ N`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Move Statement Up                                                                                          | `⇧ ⌘ ↑`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Move Statement Down                                                                                        | `⇧ ⌘ ↓`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| [**Navigation**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#context_navigation) |          |                                                                                              |
+| Collapse                                                                                                   |  `⌘ +`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Collapse All                                                                                               | `⌥ ⌘ +`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Expand                                                                                                     |  `⌘ -`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Expand All                                                                                                 | `⌥ ⌘ -`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Go to Line:Column                                                                                          |  `⌘ L`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Go to Super Method                                                                                         |  `⌘ U`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Go to Declaration or Usages                                                                                |  `⌘ B`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Go to Implementation(s)                                                                                    | `⌥ ⌘ B`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Open Settings                                                                                              |  `⌘ ,`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
+| Switch Tabs (w/ Switcher)                                                                                  |  `⌃ ⇥`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| [**Refactoring**](https://www.jetbrains.com/help/idea/refactoring-source-code.html#popular-refactorings)   |          |                                                                                              |
+| Extract Constant                                                                                           | `⌥ ⌘ C`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Extract Variable                                                                                           | `⌥ ⌘ V`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Rename                                                                                                     |  `⇧ F6`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green)                |
 
 ## Chrome
 
-| Action                                                                                                                            | Shortcut |
-|-----------------------------------------------------------------------------------------------------------------------------------|:--------:|
-| [**Navigation**](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-window-shortcuts) |          |
-| Jump to Next Tab                                                                                                                  | `⌘ ⌥ →`  |
-| Jump to Previous Tab                                                                                                              | `⌘ ⌥ ←`  |
+| Action                                                                                                                            | Shortcut | Confidence Level                                 |
+|-----------------------------------------------------------------------------------------------------------------------------------|:--------:|:-------------------------------------------------|
+| [**Navigation**](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-window-shortcuts) |          | 
+| Jump to Next Tab                                                                                                                  | `⌘ ⌥ →`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+| Jump to Previous Tab                                                                                                              | `⌘ ⌥ ←`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
