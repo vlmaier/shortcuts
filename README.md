@@ -22,6 +22,7 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | [**Navigation**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#context_navigation) ||
 | Go to Line/Column                                                                                          |  `⌘ L`   |
 | Open Settings                                                                                              |  `⌘ ,`   |
+| Switch Tabs (w/ Switcher)                                                                                  |  `⌃ ⇥`   |
 | [**Refactoring**](https://www.jetbrains.com/help/idea/refactoring-source-code.html#popular-refactorings)   |          |
 | Extract Constant                                                                                           | `⌥ ⌘ C`  |
 | Extract Variable                                                                                           | `⌥ ⌘ V`  |
