@@ -20,8 +20,9 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Move Statement Up                                                                                          | `⇧ ⌘ ↑`  |
 | Move Statement Down                                                                                        | `⇧ ⌘ ↓`  |
 | [**Navigation**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#context_navigation) ||
-| Go to Line/Column                                                                                          |  `⌘ L`   |
+| Go to Line:Column                                                                                          |  `⌘ L`   |
 | Go to Super Method                                                                                         |  `⌘ U`   |
+| Go to Declaration or Usages                                                                                |  `⌘ B`   |
 | Go to Implementation(s)                                                                                    | `⌥ ⌘ B`  |
 | Open Settings                                                                                              |  `⌘ ,`   |
 | Switch Tabs (w/ Switcher)                                                                                  |  `⌃ ⇥`   |
