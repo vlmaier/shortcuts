@@ -36,3 +36,11 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Extract Constant                                                                                           | `⌥ ⌘ C`  |
 | Extract Variable                                                                                           | `⌥ ⌘ V`  |
 | Rename                                                                                                     |  `⇧ F6`  |
+
+## Chrome
+
+| Action                                                                                                                            | Shortcut |
+|-----------------------------------------------------------------------------------------------------------------------------------|:--------:|
+| [**Navigation**](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-window-shortcuts) |          |
+| Jump to Next Tab                                                                                                                  | `⌘ ⌥ →`  |
+| Jump to Previous Tab                                                                                                              | `⌘ ⌥ ←`  |
