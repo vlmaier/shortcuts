@@ -2,6 +2,14 @@
 
 Overview of useful shortcuts I use (want to memorize and use) every day to optimize repetitive tasks.
 
+### Confidence Level
+
+- ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) I know it by heart. Wake me up at 3 am and I will show you.
+- ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green) I know it pretty well. On very rare occasions I can't hit it.
+- ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow) The learning process is done. It's all about practice now.
+- ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange) I know it, but sometimes I can't get it right the first time.
+- ![](https://img.shields.io/badge/-%E2%98%85-red) Fairly new shortcut for me, lots of practice is required.
+
 ## IntelliJ IDEA
 
 | Action                                                                                                     | Shortcut | Confidence Level                                                                             |
