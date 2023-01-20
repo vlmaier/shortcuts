@@ -55,3 +55,14 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | [**Navigation**](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-window-shortcuts) |          | 
 | Jump to Next Tab                                                                                                                  | `⌘ ⌥ →`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
 | Jump to Previous Tab                                                                                                              | `⌘ ⌥ ←`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+
+## Rectangle
+
+| Action                                                  | Shortcut | Confidence Level                                 |
+|---------------------------------------------------------|:--------:|:-------------------------------------------------|
+| [**Navigation**](https://github.com/rxhanson/Rectangle) |          |
+| Left Half                                               | `⌃ ⌥ ←`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+| Right Half                                              | `⌃ ⌥ →`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+| Top Half                                                | `⌃ ⌥ ↑`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+| Bottom Half                                             | `⌃ ⌥ ↓`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+| Maximize                                                | `⌃ ⌥ ⏎`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
