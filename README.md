@@ -16,27 +16,27 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 |------------------------------------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------------------|
 | [**Selection**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#select_text)         |          |                                                                                              |
 | Select All                                                                                                 |  `⌘ A`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
-| Extend Selection                                                                                           |  `⌥ ↑`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
-| Shrink Selection                                                                                           |  `⌥ ↓`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Extend Selection                                                                                           |  `⌥ ↑`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
+| Shrink Selection                                                                                           |  `⌥ ↓`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
 | [**Editing**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#basic_editing)         |          |                                                                                              |
 | Copy                                                                                                       |  `⌘ C`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
 | Paste                                                                                                      |  `⌘ V`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
 | Cut                                                                                                        |  `⌘ X`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
-| Delete Line                                                                                                |  `⌘ ⌫`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Delete Line                                                                                                |  `⌘ ⌫`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green)                |
 | Duplicate Line or Selection                                                                                |  `⌘ D`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
 | [**Coding**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#coding_assistance)      |          |                                                                                              |
 | Run                                                                                                        |  `⌃ R`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | Run Test                                                                                                   | `⌃ ⇧ R`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
-| Reformat Code                                                                                              | `⌥ ⌘ L`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Reformat Code                                                                                              | `⌥ ⌘ L`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
 | Generate...                                                                                                |  `⌘ N`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
-| Move Statement Up                                                                                          | `⇧ ⌘ ↑`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
-| Move Statement Down                                                                                        | `⇧ ⌘ ↓`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Move Statement Up                                                                                          | `⇧ ⌘ ↑`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
+| Move Statement Down                                                                                        | `⇧ ⌘ ↓`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
 | [**Navigation**](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html#context_navigation) |          |                                                                                              |
 | Collapse                                                                                                   |  `⌘ +`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
-| Collapse All                                                                                               | `⌥ ⌘ +`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Collapse All                                                                                               | `⌥ ⌘ +`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
 | Expand                                                                                                     |  `⌘ -`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
-| Expand All                                                                                                 | `⌥ ⌘ -`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
-| Go to Line:Column                                                                                          |  `⌘ L`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Expand All                                                                                                 | `⌥ ⌘ -`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Go to Line:Column                                                                                          |  `⌘ L`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
 | Go to Super Method                                                                                         |  `⌘ U`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | Go to Declaration or Usages                                                                                |  `⌘ B`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | Go to Implementation(s)                                                                                    | `⌥ ⌘ B`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
@@ -44,8 +44,8 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Open Settings                                                                                              |  `⌘ ,`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
 | Switch Tabs (w/ Switcher)                                                                                  |  `⌃ ⇥`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | [**Refactoring**](https://www.jetbrains.com/help/idea/refactoring-source-code.html#popular-refactorings)   |          |                                                                                              |
-| Extract Constant                                                                                           | `⌥ ⌘ C`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
-| Extract Variable                                                                                           | `⌥ ⌘ V`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange)                                 |
+| Extract Constant                                                                                           | `⌥ ⌘ C`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
+| Extract Variable                                                                                           | `⌥ ⌘ V`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
 | Rename                                                                                                     |  `⇧ F6`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green)                |
 
 ## Chrome
@@ -58,11 +58,11 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 
 ## Rectangle
 
-| Action                                                  | Shortcut | Confidence Level                                 |
-|---------------------------------------------------------|:--------:|:-------------------------------------------------|
+| Action                                                  | Shortcut | Confidence Level                                             |
+|---------------------------------------------------------|:--------:|:-------------------------------------------------------------|
 | [**Navigation**](https://github.com/rxhanson/Rectangle) |          |
-| Left Half                                               | `⌃ ⌥ ←`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
-| Right Half                                              | `⌃ ⌥ →`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
-| Top Half                                                | `⌃ ⌥ ↑`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
-| Bottom Half                                             | `⌃ ⌥ ↓`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
-| Maximize                                                | `⌃ ⌥ ⏎`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+| Left Half                                               | `⌃ ⌥ ←`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange) |
+| Right Half                                              | `⌃ ⌥ →`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange) |
+| Top Half                                                | `⌃ ⌥ ↑`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
+| Bottom Half                                             | `⌃ ⌥ ↓`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
+| Maximize                                                | `⌃ ⌥ ⏎`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
