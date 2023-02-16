@@ -76,3 +76,4 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Select All                                                             |  `⌘ A`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
 | Extend Selection                                                       |  `⇧ ↑`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | Shrink Selection                                                       |  `⇧ ↓`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Preview file                                                           | `Space`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
