@@ -10,7 +10,7 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 - ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85-orange) I know it, but sometimes I can't get it right the first time.
 - ![](https://img.shields.io/badge/-%E2%98%85-red) Fairly new shortcut for me, lots of practice is required.
 
-## IntelliJ IDEA
+## JetBrains IDEs
 
 | Action                                                                                                     | Shortcut | Confidence Level                                                                             |
 |------------------------------------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------------------|
@@ -66,3 +66,10 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Top Half                                                | `⌃ ⌥ ↑`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
 | Bottom Half                                             | `⌃ ⌥ ↓`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
 | Maximize                                                | `⌃ ⌥ ⏎`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
+
+## Finder
+
+| Action                                                  | Shortcut | Confidence Level                                 |
+|---------------------------------------------------------|:--------:|:-------------------------------------------------|
+| [**Editing**](https://support.apple.com/en-in/HT201236) |          |                                                  |
+| Move to Bin                                             |  `⌘ ⌫`   | ![](https://img.shields.io/badge/-%E2%98%85-red) |
