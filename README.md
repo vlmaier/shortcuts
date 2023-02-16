@@ -69,7 +69,10 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 
 ## Finder
 
-| Action                                                  | Shortcut | Confidence Level                                 |
-|---------------------------------------------------------|:--------:|:-------------------------------------------------|
-| [**Editing**](https://support.apple.com/en-in/HT201236) |          |                                                  |
-| Move to Bin                                             |  `⌘ ⌫`   | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+| Action                                                                 | Shortcut | Confidence Level                                                                             |
+|------------------------------------------------------------------------|:--------:|:---------------------------------------------------------------------------------------------|
+| [**Mac keyboard shortcuts**](https://support.apple.com/en-in/HT201236) |          |                                                                                              |
+| Move to Bin                                                            |  `⌘ ⌫`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Select All                                                             |  `⌘ A`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
+| Extend Selection                                                       |  `⇧ ↑`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Shrink Selection                                                       |  `⇧ ↓`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
