@@ -77,3 +77,4 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Extend Selection                                                       |  `⇧ ↑`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | Shrink Selection                                                       |  `⇧ ↓`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | Preview file                                                           | `Space`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+| Show hidden files                                                      | `⇧ ⌘ .`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
