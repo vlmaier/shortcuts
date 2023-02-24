@@ -48,6 +48,14 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Extract Variable                                                                                           | `⌥ ⌘ V`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
 | Rename                                                                                                     |  `⇧ F6`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green)                |
 
+## VS Code
+
+| Action                                                               | Shortcut | Confidence Level                                 |
+|----------------------------------------------------------------------|:--------:|:-------------------------------------------------|
+| [**Editing**](https://code.visualstudio.com/docs/languages/markdown) |          |                                                  |
+| Open Preview                                                         | `⇧ ⌘ V`  | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+
+
 ## Chrome
 
 | Action                                                                                                                            | Shortcut | Confidence Level                                 |
