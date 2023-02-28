@@ -78,6 +78,9 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Bottom Left                                             | `⌃ ⌥ J`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
 | Top Right                                               | `⌃ ⌥ I`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
 | Bottom Right                                            | `⌃ ⌥ K`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
+| First Third                                             | `⌃ ⌥ D`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
+| Center Third                                            | `⌃ ⌥ F`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
+| Last Third                                              | `⌃ ⌥ G`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
 | Maximize                                                | `⌃ ⌥ ⏎`  | ![](https://img.shields.io/badge/-%E2%98%85-red)             |
 
 ## Finder
