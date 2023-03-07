@@ -48,6 +48,7 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Extract Variable                                                                                           | `⌥ ⌘ V`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow)                        |
 | Rename                                                                                                     |  `⇧ F6`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green)                |
 | [**Version Control**](https://www.jetbrains.com/help/idea/version-control-integration.html)                |          |                                                                                              |
+| Show diff                                                                                                  |  `⌘ D`   | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) |
 | Move to Another Changelist                                                                                 | `⇧ ⌘ M`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 
 ## VS Code
