@@ -3,3 +3,4 @@ IntelliJ
 JetBrains
 IDEs
 Changelist
+Javadocs
