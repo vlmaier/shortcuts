@@ -100,3 +100,10 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 | Shrink Selection                                                       |  `⇧ ↓`   | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | Preview file                                                           | `Space`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
 | Show hidden files                                                      | `⇧ ⌘ .`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                                             |
+
+## Warp
+
+| Action                                                                      | Shortcut | Confidence Level                                 |
+|-----------------------------------------------------------------------------|:--------:|:-------------------------------------------------|
+| [**Keyboard shortcuts**](https://docs.warp.dev/features/keyboard-shortcuts) |          |                                                  |
+| Ask AI                                                                      |   `#`    | ![](https://img.shields.io/badge/-%E2%98%85-red) |
