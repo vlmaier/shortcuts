@@ -107,3 +107,10 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 |-----------------------------------------------------------------------------|:--------:|:-------------------------------------------------|
 | [**Keyboard shortcuts**](https://docs.warp.dev/features/keyboard-shortcuts) |          |                                                  |
 | Ask AI                                                                      |   `#`    | ![](https://img.shields.io/badge/-%E2%98%85-red) |
+
+## Outlook
+
+| Action                                                                                                                                                 | Shortcut | Confidence Level                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|:-------------------------------------------------|
+| [**Keyboard shortcuts**](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd#PickTab=macOS) |          |                                                  |
+| Archive                                                                                                                                                |  `⌃ E`   | ![](https://img.shields.io/badge/-%E2%98%85-red) |
