@@ -56,10 +56,12 @@ Overview of useful shortcuts I use (want to memorize and use) every day to optim
 
 ## VS Code
 
-| Action                                                               | Shortcut | Confidence Level                                                      |
-|----------------------------------------------------------------------|:--------:|:----------------------------------------------------------------------|
-| [**Editing**](https://code.visualstudio.com/docs/languages/markdown) |          |                                                                       |
-| Open Preview                                                         | `⇧ ⌘ V`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow) |
+| Action                                                                      | Shortcut | Confidence Level                                                      |
+|-----------------------------------------------------------------------------|:--------:|:----------------------------------------------------------------------|
+| [**Editing**](https://code.visualstudio.com/docs/languages/markdown)        |          |                                                                       |
+| Open Preview                                                                | `⇧ ⌘ V`  | ![](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85-yellow) |
+| [**Navigation**](https://code.visualstudio.com/docs/getstarted/keybindings) |          |                                                                       |
+| Show Extensions                                                             | `⇧ ⌘ X`  | ![](https://img.shields.io/badge/-%E2%98%85-red)                      |
 
 
 ## Chrome
